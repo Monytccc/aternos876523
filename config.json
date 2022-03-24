@@ -1,0 +1,9 @@
+{
+	"ip":"monytccc.aternos.me",
+	"port": "63283",
+	"name": "mnytc",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register mnytc1212 ",
+	"login-cmd":"/login mnytc1212 "
+}
